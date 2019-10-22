@@ -1,0 +1,24 @@
+{
+  "name": "rollup-plugin-miniprogram",
+  "version": "1.0.0",
+  "description": "miniprogrma",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/rollup-plugin-miniprogram.git"
+  },
+  "keywords": [
+    "miniprogram",
+    "wx",
+    "app"
+  ],
+  "author": "bugszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/rollup-plugin-miniprogram/issues"
+  },
+  "homepage": "https://github.com/bugszhou/rollup-plugin-miniprogram#readme"
+}
